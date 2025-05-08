@@ -1,4 +1,4 @@
-Object tracking in matlab based on: https://www.mathworks.com/help/vision/ug/track-a-face.html
+Object tracking in matlab using the computer vision toolbox (vision.PointTracker)
 
 Allows relabelling of the same object when trakcing is lost, made for long CANELAB behavioural sessions
 
